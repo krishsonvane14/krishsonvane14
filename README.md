@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
-<h3 align="center">A passionate software developer from Vancouver studying at SFU.</h3>
+<h3 align="center">A software developer studying at SFU.</h3>
 
 - 🔭 I’m currently a **Sophomore**
 
 - 📫 How to reach me **kus@sfu.ca**
 
-- ⚡ Fun fact **I like concerts.**
+- 📍 **Vancouver, BC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
