@@ -3,7 +3,7 @@
 
 - 🔭 currently a **Sophomore**
 
-- 📫 How to reach me **kus@sfu.ca*
+- 📫 How to reach me **kus@sfu.ca**
 
 - 📍 **Vancouver, BC**
 
