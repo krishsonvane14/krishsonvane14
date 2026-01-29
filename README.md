@@ -7,7 +7,10 @@
 
 - 📍 **Vancouver, BC**
 
-<h3 align="left">Connect with me:</h3>  ** https://www.linkedin.com/in/krishsonvane/ **
+  
+<h3 align="left">Connect with me:</h3>
+[LinkedIn](https://www.linkedin.com/in/krishsonvane/)
+
 <p align="left">
 </p>
 
