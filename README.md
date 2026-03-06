@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
 <h3 align="center">A software developer studying CS.</h3>
 
-- 🔭 currently a **Junior**
+- 🔭 currently a **3rd Year Student**
 
 - 📫 How to reach me **kus@sfu.ca**
 
