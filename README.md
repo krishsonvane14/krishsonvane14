@@ -1,18 +1,56 @@
-<h1 align="center">Hi 👋, I'm Krish</h1>
-<h3 align="center">A software developer studying CS.</h3>
+<div align="center">
 
-- 🔭 currently a **3rd Year Student**
+# I'm Krish!
+*cs + stats · systems builder · occasional overengineer ·*
+*SFU Computing Science & Minor in Statistics  '27 · Vancouver, BC*
 
-- 📫 How to reach me **kus@sfu.ca**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishsonvane/)
+[![Email](https://img.shields.io/badge/kus@sfu.ca-0A66C2?style=flat-square&logo=maildotru&logoColor=white)](mailto:kus@sfu.ca)
 
-- 📍 **Vancouver, BC**
+</div>
 
-  
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishsonvane)
+---
 
-<p align="left">
-</p>
+### what i'm building
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+> i get interested in a problem, go too deep, and end up with something production-grade.
+> currently looking for **Summer 2026 co-op** in software engineering or cloud infrastructure.
+
+```
+right now:  finishing Invariant (personal finance platform with real Plaid banking data)
+shipped:    AWS Cost Guard — zero-infra billing monitor, OIDC auth, daily Discord alerts
+systems:    Titan — C++ HTTP server, 10k+ req/sec, Berkeley sockets from scratch
+hackathon:  Financially Cooked — FastAPI + K-Means clustering at Mountain Madness SFU
+```
+
+---
+
+### things i reach for
+
+```python
+languages   = ["Python", "C++", "TypeScript", "SQL", "Bash", "Java"]
+cloud       = ["AWS", "Terraform", "Docker", "GitHub Actions", "OIDC"]
+web         = ["Next.js", "React", "Node.js", "FastAPI", "PostgreSQL"]
+ml          = ["PyTorch", "Scikit-learn", "Pandas", "TensorFlow"]
+craft       = ["mypy --strict", "pytest", "Ruff", "pip-compile"]
+```
+
+---
+
+### pinned
+
+| project | what it does | stack |
+|---|---|---|
+| [aws-cost-guard](https://github.com/krishsonvane14/aws-cost-guard) | detects AWS billing anomalies, pings Discord before bill shock compounds | Python, Terraform, OIDC |
+| [invariant-finance](https://github.com/krishsonvane14/invariant-finance) | multi-tenant finance dashboard with live Plaid banking data | Next.js, Supabase, Drizzle |
+| [titan-web-server](https://github.com/krishsonvane14/titan-web-server) | HTTP server from scratch in C++, 10k+ req/sec | C++, Berkeley Sockets |
+| [financially-cooked](https://github.com/krishsonvane14/financially-cooked) | multiplayer budgeting sim with K-Means persona clustering | FastAPI, Scikit-learn |
+
+---
+
+<div align="center">
+
+![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishsonvane14&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,contribs&include_all_commits=true&count_private=true)
+
+
+</div>
