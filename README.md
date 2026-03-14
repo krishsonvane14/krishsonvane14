@@ -1,6 +1,14 @@
 <div align="center">
 
-# I'm Krish!
+
+<div align="center">
+<img src="https://i.pinimg.com/736x/58/a3/13/58a3135052913415c36b0efc5ba70b20.jpg" width="400" alt="Anime Home Office - Night City Coding Scene"/></div>
+
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=100&color=42d7f5&width=750&lines=Hi,+I'm+Krish+Sonvane!;+Software+Engineer+%7C+ML+OPS++%7C+Data+Analyst"/>
+
 *cs + stats · systems builder · occasional overengineer ·*
 *SFU Computing Science & Minor in Statistics  '27 · Vancouver, BC*
 
