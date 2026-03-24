@@ -7,7 +7,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=100&color=42d7f5&width=750&lines=Hi,+I'm+Krish+Sonvane!;+Software+Engineer+%7C+ML+OPS++%7C+Data+Analyst"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=100&color=42d7f5&width=750&lines=Hi,+I'm+Krish+Sonvane!;+Software+Engineer+%7C+Dev+OPS++%7C+Systems+Cloud Engineer"/>
 
 *cs + stats · systems builder · occasional overengineer ·*
 *SFU Computing Science & Minor in Statistics  '27 · Vancouver, BC*
