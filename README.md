@@ -7,7 +7,8 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=100&color=42d7f5&width=750&lines=Hi,+I'm+Krish+Sonvane!;+Software+Engineer+%7C+Dev+OPS++%7C+Systems+and+Cloud+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=100&color=42d7f5&width=750&lines=Hi,+I'm+Krish+Sonvane!;+Software+Engineer+%7C+Systems+%7C+Machine+Learning++%7C+Cloud"/>
+
 
 *cs + stats · systems builder · occasional overengineer ·*
 *SFU Computing Science & Minor in Statistics  '27 · Vancouver, BC*
@@ -26,9 +27,10 @@
 
 ```
 right now:  finishing Invariant (personal finance platform with real Plaid banking data)
+building:   DemandIQ : ML-powered retail analytics & forecasting platform
 shipped:    AWS Cost Guard — zero-infra billing monitor, OIDC auth, daily Discord alerts
-systems:    Titan — C++ HTTP server, 10k+ req/sec, Berkeley sockets from scratch
-hackathon:  Financially Cooked — FastAPI + K-Means clustering at Mountain Madness SFU
+systems:    Titan : C++ HTTP server, 10k+ req/sec, Berkeley sockets from scratch
+hackathon:  Financially Cooked : FastAPI + K-Means clustering at Mountain Madness SFU
 ```
 
 ---
@@ -80,6 +82,7 @@ hackathon:  Financially Cooked — FastAPI + K-Means clustering at Mountain Madn
 
 | project | what it does | stack |
 |---|---|---|
+| [demandiq](https://github.com/krishsonvane14/DemandIQ) | end-to-end ML system for retail demand forecasting, data pipelines & LLM-generated insights | Python, Pandas, Prophet, Streamlit |
 | [aws-cost-guard](https://github.com/krishsonvane14/aws-cost-guard) | detects AWS billing anomalies, pings Discord before bill shock compounds | Python, Terraform, OIDC |
 | [invariant-finance](https://github.com/krishsonvane14/invariant-finance) | multi-tenant finance dashboard with live Plaid banking data | Next.js, Supabase, Drizzle |
 | [titan-web-server](https://github.com/krishsonvane14/titan-web-server) | HTTP server from scratch in C++, 10k+ req/sec | C++, Berkeley Sockets |
