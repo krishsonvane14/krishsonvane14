@@ -23,7 +23,7 @@
 ### what i'm building
 
 > i get interested in a problem, go too deep, and end up with something production-grade.
-> currently looking for **Summer 2026 co-op** in software engineering or cloud infrastructure.
+> currently looking for **Fall 2026 Co-op**.
 
 ```
 right now:  finishing Invariant (personal finance platform with real Plaid banking data)
