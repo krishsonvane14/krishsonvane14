@@ -89,10 +89,3 @@ hackathon:  Financially Cooked : FastAPI + K-Means clustering at Mountain Madnes
 | [financially-cooked](https://github.com/krishsonvane14/financially-cooked) | multiplayer budgeting sim with K-Means persona clustering | FastAPI, Scikit-learn |
 
 ---
-
-<div align="center">
-
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishsonvane14&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,contribs&include_all_commits=true&count_private=true)
-
-
-</div>
