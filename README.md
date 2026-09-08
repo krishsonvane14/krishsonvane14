@@ -21,10 +21,10 @@
 ### what i'm building
 
 > i get interested in a problem, go too deep, and end up with something production-grade.  
-> currently working as a ** AI Analyst Co-op @ BC Public Service (Common Capabilities & AI Platforms)**.
+> currently working as an **AI Analyst Co-op @ BC Public Service (Common Capabilities & AI Platforms)**.
 
 ```
-right now:   building cloud & AI platform capabilities @ BC Public Service
+right now:   Interning as an AI Analyst at AI platform capabilities @ BC Public Service
 shipped:     Invariant — personal finance platform with real Plaid banking data
 building:    DemandIQ : ML-powered retail analytics & forecasting platform
 infra:       AWS Cost Guard — zero-infra billing monitor, OIDC auth, daily Discord alerts
