@@ -1,17 +1,15 @@
 <div align="center">
 
-
 <div align="center">
 <img src="https://i.pinimg.com/736x/58/a3/13/58a3135052913415c36b0efc5ba70b20.jpg" width="400" alt="Anime Home Office - Night City Coding Scene"/></div>
-
 
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=100&color=42d7f5&width=750&lines=Hi,+I'm+Krish+Sonvane!;+Software+Engineer+%7C+Systems+%7C+Machine+Learning++%7C+Cloud"/>
 
-
-*cs + stats · systems builder · occasional overengineer ·*
-*SFU Computing Science & Minor in Statistics  '27 · Vancouver, BC*
+*cs + stats · systems builder · occasional overengineer ·*  
+* AI Analyst Co-op @ BC Public Service | 
+*SFU Computing Science & Minor in Statistics '28 · Vancouver, BC*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishsonvane/)
 [![Email](https://img.shields.io/badge/kus@sfu.ca-0A66C2?style=flat-square&logo=maildotru&logoColor=white)](mailto:kus@sfu.ca)
@@ -22,15 +20,16 @@
 
 ### what i'm building
 
-> i get interested in a problem, go too deep, and end up with something production-grade.
-> currently looking for **Fall 2026 Co-op**.
+> i get interested in a problem, go too deep, and end up with something production-grade.  
+> currently working as a ** AI Analyst Co-op @ BC Public Service (Common Capabilities & AI Platforms)**.
 
 ```
-right now:  finishing Invariant (personal finance platform with real Plaid banking data)
-building:   DemandIQ : ML-powered retail analytics & forecasting platform
-shipped:    AWS Cost Guard — zero-infra billing monitor, OIDC auth, daily Discord alerts
-systems:    Titan : C++ HTTP server, 10k+ req/sec, Berkeley sockets from scratch
-hackathon:  Financially Cooked : FastAPI + K-Means clustering at Mountain Madness SFU
+right now:   building cloud & AI platform capabilities @ BC Public Service
+shipped:     Invariant — personal finance platform with real Plaid banking data
+building:    DemandIQ : ML-powered retail analytics & forecasting platform
+infra:       AWS Cost Guard — zero-infra billing monitor, OIDC auth, daily Discord alerts
+systems:     Titan : C++ HTTP server, 10k+ req/sec, Berkeley sockets from scratch
+hackathon:   Financially Cooked : FastAPI + K-Means clustering at Mountain Madness SFU
 ```
 
 ---
@@ -71,9 +70,8 @@ hackathon:  Financially Cooked : FastAPI + K-Means clustering at Mountain Madnes
 **craft & tooling**
 
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat-square&logoColor=white)
+![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat-square&logo=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![pip--tools](https://img.shields.io/badge/pip--tools-3775A9?style=flat-square&logo=pypi&logoColor=white)
 
 ---
